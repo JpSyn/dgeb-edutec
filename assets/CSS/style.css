@@ -550,6 +550,10 @@ footer {
   .bandeiras {
     position: static;
   }
+	
+  .lista__index li {
+     margin: 0 0 0.2em 2em;
+  }
 
   footer {
     margin-top: 0;
